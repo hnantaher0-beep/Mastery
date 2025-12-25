@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://quiet-klepon-310251.netlify.app/sitemap.xml
